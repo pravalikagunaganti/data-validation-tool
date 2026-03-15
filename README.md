@@ -33,17 +33,21 @@ manual validation effort significantly.
 - KPI reporting preparation
 
 ## 🚀 How to Run
-1. Clone the repository:
+
+**Step 1** — Clone the repository:
 ```bash
 git clone https://github.com/pravalikagunaganti/data-validation-tool
 ```
-2. Install required packages:
+
+**Step 2** — Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
-3. Run the tool:
+
+**Step 3** — Run the tool:
 ```bash
 python validation_tool.py
+```
 ```
 
 ## 📁 Project Structure
