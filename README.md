@@ -51,13 +51,11 @@ python validation_tool.py
 ```
 
 ## 📁 Project Structure
-```
 data-validation-tool/
 │── validation_tool.py
 │── cleaned_students.csv
 │── requirements.txt
 │── README.md
-```
 
 ## 👩‍💻 Author
 **Pravalika Gunaganti**
