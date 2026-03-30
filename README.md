@@ -14,7 +14,7 @@ manual validation effort significantly.
 - Automated data cleaning pipeline
 - Saves cleaned output as CSV
 - Modular OOP design for scalability
-- Structured rule-based validation workflows
+- Structured rule-based validation workflows 
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
